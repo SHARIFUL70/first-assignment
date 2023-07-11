@@ -142,7 +142,7 @@ nav {
     background: rgba(21, 16, 16, 0.05);
     align-items: center;
     justify-content: center;
-    
+
     margin: 60px auto;
 
 }
@@ -160,5 +160,57 @@ nav {
     font-size: 14px;
 
     font-weight: 600;
-    
+
+}
+
+.flowers-offer {
+    width: 100%;
+    height: 520px;
+    background-color: rgb(186, 240, 240);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.offer-text {
+    margin-right: 80px;
+    text-align: center;
+}
+
+.offer-text h1 {
+    width: 537px;
+    height: 50px;
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.offer-text p {
+    width: 590px;
+    height: 60px;
+    color: rgba(39, 39, 39, 0.60);
+    font-weight: 400;
+    font-family: Lato;
+    font-size: 18px;
+    padding: 24px;
+}
+
+.offer-text span {
+    color: red;
+}
+
+.offer-text button {
+    border: 0px;
+    padding: 20px 43px;
+    border-radius: 8px;
+    background: #E55473;
+
+    color: white;
+}
+
+.offer-img {
+    width: 318px;
+    height: 420px;
 }
