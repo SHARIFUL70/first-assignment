@@ -259,11 +259,15 @@ nav {
     text-align: center;
     gap: 100px;
     color: rgb(52, 52, 52);
+    margin-top: 24px;
+    
 }
 .our p{
     width: 500px;
-    height: 183px;
+    height: 160px;
     font-size: 18px;
+    font-weight: 800;
+    margin-top: 20px;
 }
 .our img{
     width: 100px;
@@ -272,10 +276,19 @@ nav {
 }
 .about p{
     width: 500px;
-    height: 183px;
-    font-size: 18px;
+    height: 160px;
+    font-weight: 800;
+    margin-top: 20px;
 }
 .about img{
     width: 100px;
     height: 100px;
+    
+}
+.Learn{
+    padding: 14px;
+    background-color: rgb(39, 39, 168);
+    border: 0px;
+    color: white;
+    border-radius: 4px ;
 }
