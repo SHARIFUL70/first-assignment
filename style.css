@@ -214,3 +214,38 @@ nav {
     width: 318px;
     height: 420px;
 }
+
+.instagram {
+    text-align: center;
+    margin-top: 75px;
+}
+
+.instagram h1 {
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.instagram p {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    width: 500px;
+    height: 90px;
+    margin: auto;
+}
+
+.row-img {
+    display: flex;
+    justify-content: center;
+}
+.colunm{
+    margin-right: 24px;
+}
+
+.colunm img {
+    width: 242px;
+    height: 296px;
+}
