@@ -94,7 +94,7 @@ nav {
     height: 467px;
     align-items: center;
     justify-content: center;
-    border: 1px solid rebeccapurple;
+    
     margin-left: 73px;
     margin-top: 5px;
 
@@ -104,7 +104,7 @@ nav {
     width: 364px;
     height: 404px;
     /* background-color: #f7a9ba; */
-    border: 1px solid rebeccapurple;
+    
     margin-right: 12px;
     border-radius: 300px 300px 0px 0px;
     text-align: center;
@@ -123,4 +123,10 @@ nav {
     width: 210px;
     height: 320px;
     margin-top: 84px;
+}
+.flowers-box h3{
+    border-bottom: 1px solid black;
+    margin-top: 10px;
+    width: 150px;
+    margin: auto;
 }
