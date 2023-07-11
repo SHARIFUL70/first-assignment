@@ -5,7 +5,7 @@
 
 body {
     font-family: 'Lato';
-    
+
 }
 
 nav {
@@ -17,7 +17,7 @@ nav {
 .banner {
     display: flex;
     align-items: center;
-   
+
 }
 
 
@@ -53,7 +53,8 @@ nav {
     margin-left: 220px;
     color: white;
 }
-.banner-img{
+
+.banner-img {
     margin-left: 110px;
 }
 
@@ -61,7 +62,7 @@ nav {
     width: 450px;
     height: 600px;
     margin-top: 58px;
-    
+
 
 }
 
@@ -85,7 +86,41 @@ nav {
     width: 500px;
     height: 90px;
     margin: auto;
+}
 
+.flowers-item {
+    display: flex;
+    width: 90%;
+    height: 467px;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rebeccapurple;
+    margin-left: 73px;
+    margin-top: 5px;
 
+}
 
+.flowers-box {
+    width: 364px;
+    height: 404px;
+    /* background-color: #f7a9ba; */
+    border: 1px solid rebeccapurple;
+    margin-right: 12px;
+    border-radius: 300px 300px 0px 0px;
+    text-align: center;
+}
+ .red{
+    background-color: #eef55b;
+}
+ .blue{
+    background-color: #91e3f3;
+}
+.phink{
+    background-color: #d36cc0;
+}
+
+.flowers-box img {
+    width: 210px;
+    height: 320px;
+    margin-top: 84px;
 }
