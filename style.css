@@ -345,5 +345,34 @@ input {
     padding: 12px;
     border: 0px;
     color: wheat;
-    
+}
+
+.footer-description{
+    width: 100%;
+    height: 449px;
+    background: #111010;
+    /* text-align: center; */
+}
+.footer-description{
+    color: white;
+    text-align: center;
+}
+.footer-description h1{
+    padding-top: 150px;
+    font-size: 48px;
+    font-weight: 800;
+}
+.footer-description span{
+    color: #E55473;
+}
+.footer-description p{
+    color: rgb(255, 255, 255, 0.90);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: center;
+}
+.footer-description small{
+    color: rgba(255, 255, 255, 0.40);
 }
